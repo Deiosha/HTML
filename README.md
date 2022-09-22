@@ -1,6 +1,5 @@
 I have learned how important it is to stretch out your outline before writing code. Creating a design helps you stay organized, keep your ideas in order, and leave room for creativity. An exciting code I learned was adding an image using HTML, and the recent skill I enjoy doing is adding an image to my HTML. 
 
-Adding an image: <img scr=”images.png” alt=”Image Name: />
 
 HTML has many elements: 
 
